@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066303611679",
+    "project_id": "fireapp-cc825",
+    "storage_bucket": "fireapp-cc825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066303611679:android:49c04ef351354756ef862a",
+        "android_client_info": {
+          "package_name": "com.sqlite.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066303611679-fm86fnjocgibcoeodnu3g4vmsht12ad4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAloBedJFWWAyzzXKKb71nT7rYeyjFwJTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066303611679-fm86fnjocgibcoeodnu3g4vmsht12ad4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
